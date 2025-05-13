@@ -5,8 +5,20 @@
         <section xml:id="notes-week-01">
         <title>Week 1</title>
         <p>
-            This week we covered the following topics:
+            This week you work <em>independantly</em> solving the following equation <m>x+3=1</m> which is <q>super difficult</q>:
         </p>
+        <p>
+            <ol>
+                <li> cat </li>
+                <li> dog </li>
+                <li> fish </li>
+                <li> tiger </li>  
+            </ol>
+            
+            <me>   f(x) = \begin{cases} 1 \amp x = 1 \\ 0 \amp x \ne 1\end{cases} </me>.
+        
+        </p>
+
 
         </section>
     </article>

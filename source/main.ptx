@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="demo-course">
-    <title>Demo Course</title>
+    <title>My Workbook</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -15,9 +15,12 @@
 
     <xi:include href="./course-notes.ptx" />
 
-    <!-- Include Activities -->
+    <!-- Include Activities 
     <xi:include href="./activities.ptx" />
+  -->
 
+    <!-- Include  -->
+    <xi:include href="./practice.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
